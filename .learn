@@ -1,1 +1,8 @@
-
+tags:
+  - arrays
+  - iteration
+  - conditionals
+languages:
+  - ruby
+type:
+  - todo
